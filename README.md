@@ -1,2 +1,2 @@
-# pi-pico-rust
+# pi-pico-rust-weather-station
 No description yet : )
